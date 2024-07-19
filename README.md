@@ -1,6 +1,6 @@
 # Back End
 
-[**Ketuk saya untuk membuka project**](http://localhost:5173/
+[**Ketuk saya untuk membuka project**](http://localhost:5173/)
 
    ## Langkah Instalasi :
 
